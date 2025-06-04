@@ -13,7 +13,7 @@
 
 ## 📸 Menu Picture:
 <p align="center"> <img src="Image/VirusTotal.png" width="604"/> </p>
-<p align="center"> <img src="Image/Main.png" width="300"/> <img src="Image/Menu.png" width="300"/>
+<p align="center"> <img src="Image/Main.png" width="250"/> <img src="Image/Menu.png" width="250"/>
 
 ## ⚠️ Disclaimer:
 
